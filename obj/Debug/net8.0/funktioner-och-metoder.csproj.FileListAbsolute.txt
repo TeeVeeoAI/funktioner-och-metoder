@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\bin\Debug\net8.0\funktioner-och-metoder.exe
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\bin\Debug\net8.0\funktioner-och-metoder.deps.json
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\bin\Debug\net8.0\funktioner-och-metoder.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\bin\Debug\net8.0\funktioner-och-metoder.dll
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\bin\Debug\net8.0\funktioner-och-metoder.pdb
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.dll
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\refint\funktioner-och-metoder.dll
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.pdb
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\ref\funktioner-och-metoder.dll
