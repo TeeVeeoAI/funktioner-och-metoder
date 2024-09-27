@@ -24,6 +24,7 @@ float a = 448965, b = 636, c = 86235;
 Console.WriteLine("Medelvärdet är: " + a + ", " + b + ", " + c); 
 Console.WriteLine(Medelvärde(a, b, c));
 */
+// del 2
 M();
 Main();
 
@@ -45,9 +46,9 @@ static void Main(){
 }
 
 static float Power(float a, int b) {
-    int c = Convert.ToInt32(a);
-    for (int i = 0; i <= b; i++) {
-        
+    float c = a;
+    for (int i = 1; i < b; i++) {
+        c = c*a;
     }
     return c;
 }
