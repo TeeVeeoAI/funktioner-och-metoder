@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\refint\f
 C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.pdb
 C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\ref\funktioner-och-metoder.dll
+C:\Users\Admin\Documents\GitHub\funktioner-och-metoder\obj\Debug\net8.0\funktioner-och-metoder.sourcelink.json

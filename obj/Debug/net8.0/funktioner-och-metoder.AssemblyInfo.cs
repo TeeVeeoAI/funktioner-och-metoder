@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("funktioner-och-metoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5682c45507d0bc702b910e03c6d9fb831e6b4fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51a21fed4beab30d3ae12ecc581735e6795f763f")]
 [assembly: System.Reflection.AssemblyProductAttribute("funktioner-och-metoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("funktioner-och-metoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
